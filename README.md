@@ -1,2 +1,2 @@
-Project: MyShell
-Author: Zhaoze Zhang
+# MyShell
+## Author: Zhaoze Zhang
